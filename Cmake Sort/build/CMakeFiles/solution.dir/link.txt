@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/solution.dir/sortare.cpp.o -o solution 

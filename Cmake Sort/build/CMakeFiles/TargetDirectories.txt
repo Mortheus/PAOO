@@ -1,0 +1,3 @@
+/mnt/c/Drew/PAOO/PAOO/build/CMakeFiles/solution.dir
+/mnt/c/Drew/PAOO/PAOO/build/CMakeFiles/edit_cache.dir
+/mnt/c/Drew/PAOO/PAOO/build/CMakeFiles/rebuild_cache.dir
